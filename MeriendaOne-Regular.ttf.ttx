@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="MeriendaOne-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="MeriendaOne-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="MeriendaOne-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="MeriendaOne-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="MeriendaOne-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="MeriendaOne-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="MeriendaOne-Regular.ttf._c_m_a_p.ttx"/>
+  <prep src="MeriendaOne-Regular.ttf._p_r_e_p.ttx"/>
+  <loca src="MeriendaOne-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="MeriendaOne-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="MeriendaOne-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="MeriendaOne-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="MeriendaOne-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="MeriendaOne-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="MeriendaOne-Regular.ttf.G_D_E_F_.ttx"/>
+  <DSIG src="MeriendaOne-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>
